@@ -1,0 +1,3 @@
+# aws_shopping_mall
+aws amplify
+Too much time spended...
